@@ -48,7 +48,7 @@ If you publish all your events then any other service can consume them and rebui
         
        * Wse event sourcing when your model is complicated to create using more feature experience.
        
-       ## Resouces
+       ## Resources
 
        * https://itnext.io/event-sourcing-explained-b19ccaa93ae4 (Google)
 
