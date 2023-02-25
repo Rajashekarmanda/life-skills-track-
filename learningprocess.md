@@ -66,7 +66,7 @@
     * When learning finds yourself focused and relaxed in neural states.
 
     * Try to solve new problems to know new things.
-### What are some of the steps that you can take to improve your learning process?
+### Q4: What are some of the steps that you can take to improve your learning process?
 
 * When we learn something to find ourselves be in focus mode and set all neural states.
 
