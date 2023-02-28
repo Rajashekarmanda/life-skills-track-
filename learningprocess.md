@@ -41,7 +41,7 @@
 
 ### Q3: Paraphrase the video in detail in your own words.
 
-* she is explaining how to learn to get better at learning.
+* She is explaining how to learn to get better at learning.
 
 * She was in 10th grade moving all 10 different places. And learned new things.
 
